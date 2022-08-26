@@ -1,2 +1,2 @@
 # Noticias-cidade
-Site de notícia e jornalismo.
+Site de notícias e jornalismo.
